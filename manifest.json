@@ -1,0 +1,11 @@
+{
+    "name":"Video Trending",
+    "version":"1.0.0",
+    "description":"This is an extension for video trending on Youtube",
+    "manifest version": 3,
+    "author": "Ikansin",
+    "action": {
+        "default_popup": "index.html",
+        "default_title":"Video Trending"
+    }
+}
